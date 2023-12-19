@@ -1,5 +1,9 @@
-# rd-stashes
+# rd-stashes QB-CORE
 Simple Drag And Drop Stash Script Using Vectors
+
+
+
+
     ["test"] = {
         canAnyoneOpen = false,
         stashName = "Stash",
